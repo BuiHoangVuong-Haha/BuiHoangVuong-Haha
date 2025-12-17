@@ -1,43 +1,41 @@
 # Hello, I'm Bui Hoang Vuong
 
-I'm a second-year student. I'm currently focusing on Java, Spring Boot, and System Design. I love solving algorithmic problems and building scalable backend systems.
+Hi, I’m Hoang Vuong (Bui) — a Software Development student targeting **Fresher Java Backend** roles.  
+I build RESTful APIs with Java/Spring Boot and work with SQL databases (PostgreSQL, SQL Server).
+
+**Recently:** Milk Tea Shop E-commerce (Spring Boot backend + Vue.js frontend) — repos are pinned below.  
+**Interests:** backend fundamentals, clean code, testing, Dockerized local setup, and database migrations.  
+**Contact:** LinkedIn: [your-linkedin] | Email: [your-email]
 
 ---
 
-## 🧑‍💻 Github Profile Summary
+## Featured projects
+- Milk Tea Shop – Backend (Spring Boot, PostgreSQL/SQL Server, Flyway): [repo-link]
+- Milk Tea Shop – Frontend (Vue.js): [repo-link]
+- (Optional) Demo/Deployment: [demo-link]
 
+---
+
+## GitHub stats (optional)
 ![Profile Views](https://komarev.com/ghpvc/?username=buihoangvuong777&color=blueviolet)
 [![GitHub Followers](https://img.shields.io/github/followers/buihoangvuong777?label=Followers&style=social)](https://github.com/buihoangvuong777)
 
 ---
 
-## 📊 Leetcode stats
-
+## LeetCode (optional)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/buihoangvuong777?theme=dark&font=Glory&ext=heatmap)
 
+---
+
+## Tech stack
+**Programming Languages:** Java, JavaScript, HTML/CSS  
+**Frameworks:** Spring Boot, Spring MVC, Vue.js  
+**Databases:** PostgreSQL, SQL Server  
+**Tools:** Git, Docker, Linux, Postman, DBeaver  
+**Database Migration:** Flyway
 
 ---
 
-## 🧰 Tech Stack
-
-### 💻 Programming Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-
-
-### 🛢️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-
-### 🧱 Frameworks & Libraries  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-
-### 🚀 Tools  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
----
-
-## 📫 Contact Me
-
-📧 buihoangvuong777@gmail.com  
+## Contact
+- Email: buihoangvuong777@gmail.com
+- LinkedIn: [your-linkedin]
