@@ -15,13 +15,13 @@ I build RESTful APIs with Java/Spring Boot and work with SQL databases (PostgreS
 
 ---
 
-## GitHub stats (optional)
+## GitHub stats 
 ![Profile Views](https://komarev.com/ghpvc/?username=buihoangvuong777&color=blueviolet)
 [![GitHub Followers](https://img.shields.io/github/followers/buihoangvuong777?label=Followers&style=social)](https://github.com/buihoangvuong777)
 
 ---
 
-## LeetCode (optional)
+## LeetCode 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/buihoangvuong777?theme=dark&font=Glory&ext=heatmap)
 
 ---
