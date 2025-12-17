@@ -1,18 +1,17 @@
 # Hello, I'm Bui Hoang Vuong
 
-Hi, I’m Hoang Vuong (Bui) — a Software Development student targeting **Fresher Java Backend** roles.  
+Hi, I’m Hoang Vuong (Bui) — a Software Development student targeting **Fresher Java Backend / Fullstack** roles.  
 I build RESTful APIs with Java/Spring Boot and work with SQL databases (PostgreSQL, SQL Server).
 
 **Recently:** Milk Tea Shop E-commerce (Spring Boot backend + Vue.js frontend) — repos are pinned below.  
 **Interests:** backend fundamentals, clean code, testing, Dockerized local setup, and database migrations.  
-**Contact:** LinkedIn: [your-linkedin] | Email: [your-email]
 
 ---
 
 ## Featured projects
-- Milk Tea Shop – Backend (Spring Boot, PostgreSQL/SQL Server, Flyway): [repo-link]
-- Milk Tea Shop – Frontend (Vue.js): [repo-link]
-- (Optional) Demo/Deployment: [demo-link]
+- Milk Tea Shop – Backend (Spring Boot, PostgreSQL/SQL Server, Flyway): https://github.com/Shinx99/milk-tea-ecommerce-springmvc
+- Milk Tea Shop – Frontend (Vue.js): https://github.com/Shinx99/milk-tea-ecommerce-fe
+- Demo/Deployment: http://18.181.252.83:5173/home
 
 ---
 
@@ -31,11 +30,11 @@ I build RESTful APIs with Java/Spring Boot and work with SQL databases (PostgreS
 **Programming Languages:** Java, JavaScript, HTML/CSS  
 **Frameworks:** Spring Boot, Spring MVC, Vue.js  
 **Databases:** PostgreSQL, SQL Server  
-**Tools:** Git, Docker, Linux, Postman, DBeaver  
+**Tools:** Github, Docker, Linux, Postman, DBeaver  
 **Database Migration:** Flyway
 
 ---
 
 ## Contact
 - Email: buihoangvuong777@gmail.com
-- LinkedIn: [your-linkedin]
+- LinkedIn: https://www.linkedin.com/in/hoangvuongbui-backend/
