@@ -4,7 +4,7 @@ Hi, I’m Hoang Vuong (Bui) — a Software Development student targeting **Fresh
 I build RESTful APIs with Java/Spring Boot and work with SQL databases (PostgreSQL, SQL Server).
 
 **Recently:** Milk Tea Shop E-commerce (Spring Boot backend + Vue.js frontend) — repos are pinned below.  
-**Interests:** backend fundamentals, clean code, testing, Dockerized local setup, and database migrations.  
+**Interests:** Backend fundamentals, clean code, system design, Dockerized local setup, and database migrations, data structure and algorithms
 
 ---
 
