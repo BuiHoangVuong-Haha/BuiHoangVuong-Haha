@@ -11,7 +11,6 @@ I build RESTful APIs with Java/Spring Boot and work with SQL databases (PostgreS
 ## Featured projects
 - Milk Tea Shop – Backend (Spring Boot, PostgreSQL/SQL Server, Flyway): https://github.com/Shinx99/milk-tea-ecommerce-springmvc
 - Milk Tea Shop – Frontend (Vue.js): https://github.com/Shinx99/milk-tea-ecommerce-fe
-- Demo/Deployment: http://18.181.252.83:5173/home
 
 ---
 
